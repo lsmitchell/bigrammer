@@ -1,0 +1,171 @@
+Restructuring has been a major force in the world economy at least since the 1970s. Restructuring includes takeovers, mergers, divestitures, spin-offs, split-ups, financial recapitalizations, and going private transactions. This paper discusses: (1) some overall magnitudes, (2) case studies to illustrate the types of forces operating, (3) some generalizations to place the case studies into a framework, and (4) implications for business economics.
+
+The total purchase price of merger and acquisition transactions during the period 1980-96 has been approximately $3 trillion [Mergerstat Review, 1997]. Another measure is how individual firms have been impacted. A study was made of the 1,064 firms listed in the Value Line Investment Survey at year-end 1981. By numbers, 57 percent of the firms had engaged in tender offers, mergers, and/or defensive restructuring between 1982-89 [Mitchell and Mulherin, 1996]. Thus, more than half the firms followed by a major investment service engaged in restructuring during an eight-year period. We next examine impacts on individual firms.
+
+SOME CASE STUDIES OF RESTRUCTURING
+
+Many types of restructuring take place: (1) turnarounds (Scott Paper), (2) major strategic refocus (Intel), (3) strategic readjustment (AT&T), (4) demand shifts (aerospace/defense), and (5) technological innovation (tires).
+
+Turnaround (Scott Paper)
+
+The Scott Paper case is an example of a classic turnaround. It has been well documented by its chief architect [Dunlap, 1996]. When Al Dunlap was hired to run Scott Paper in early 1994, the company was in crisis. Scott had lost $277 million in 1993; Scott was on credit watch with over $2.5 billion in debt, its stock price had been declining. Dunlap presents four rules for a successful restructuring:
+
+1. Form the right management team. Poorly performing executives were fired, including 70 percent of upper management in the first year. New executives with strong track records were brought in. Dunlap hired fourteen experienced marketing directors from Kimberly-Clark, Procter & Gamble, Colgate-Palmolive, and Coca-Cola. He developed a small inner circle of trusted executives with diverse skills and personalities.
+
+2. Cut costs. Payroll was reduced 35 percent by cutting 11,200 jobs. Procurement was consolidated on a worldwide basis. The items stocked in inventories were reduced from 11,000 to 2,000. Executive perks (jets, cars, beach houses) were eliminated. The opulent corporate headquarters were sold, alternative space was rented. Scott outsourced many functions. Dunlap followed the principle of doing in-house only what was perceived to give the company a competitive advantage.
+
+3. Focus on core business. Unrelated businesses, such as health care, food service, and a cogeneration power plant, were sold. Scott sold $2 billion in noncore assets within the first year. Dunlap focused on high growth products within the core business, selling off the coated paper activity for $1.6 billion.
+
+4. Develop a strategy. The product line was pared-down. Dunlap eliminated 31 percent of the consumer product items offered. Testing the "Rule of 55" showed that 50 percent of the products produced only 5 percent of its revenues and earnings. So the number of products was reduced by more than 500 and domestic warehouses from seventy to ten. The remaining products achieved a sales growth of 24.5 percent and operating margins of 20.4 percent. Marketing efforts were refocused around a unified product line, with the slogan, "Scott the world over." This saved millions in advertising and promotional expense. Executive pay was tied to shareholder value. Dunlap himself invested his personal wealth plus substantial borrowings. Scott's top ten executives owned $10 million of company stock. Stock option awards were made to 10 percent of Scott employees. Stock awards were not granted unless performance targets were met.
+
+The sale of Scott to Kimberly-Clark was announced on July 17, 1995. Scott's market value had increased $6.5 billion during Dunlap's tenure. At the time of the Scott acquisition, Kimberly-Clark's stock price was about $60. On August 29, 1997, it had risen to $110. The Spring 1997 edition of Moody's Handbook of Common Stocks noted that Kimberly-Clark "continues to benefit from its merger with Scott Paper, which has fueled improved earnings..."
+
+Creative Destruction (Intel)
+
+The second case study involves a major shift in the nature of an industry. This phenomenon has been called creative destruction [Schumpeter, 1942], major shocks [Gort, 1969], or major discontinuities [Drucker, 1989]. When this happened to Intel, its chairman, Andrew Grove [1996], called it the "Ten Times" factor or "strategic inflection points." Grove describes how the Japanese produced higher-quality memory chips priced "astonishingly low" (p. 87). By the mid-1980s, Intel's market share had plummeted. What to do? "After all, memories were us... our identity" (p.88).
+
+Intel made the very difficult decision to exit the memory chip business to concentrate on micro-processors. This also involved changing the composition of its executive group to become at least 50 percent software experts. The resulting success at Intel has been spectacular, with 80 percent of the world's computer production using Intel microprocessors. Intel's stock price (adjusted for splits) rose from $1.40 in 1986 to $93.12 on September 26, 1997 (down from a high of $102), a compound rate of increase of 46 percent per annum.
+
+Strategic Readjustments (AT&T)
+
+A third case involves AT&T. At 9:11 a.m. (New York time) on September 20, 1995, Chairman Robert E. Allen announced that, at a special meeting earlier in the morning, the board of AT&T had approved plans for a strategic restructuring that would separate AT&T into three publicly traded global companies. Under the plan, AT&T shareholders would receive shares in two other companies. A fourth business, AT&T Capital Corp., would be sold. This restructuring in the form of a split-up was accomplished by means of spin-offs to shareholders of two activities.
+
+The AT&T name continued for the Communications Services group, with revenues of about $50 billion. This included the long-distance business, AT&T Wireless (formerly McCaw Cellular Communications), and Universal Card operations. About 15 percent of Bell Lab employees were also retained. It also included a newly established AT&T Solutions consulting and systems integration organization.
+
+The second company was an equipment company called Communications Systems (later renamed Lucent Technologies). Its production encompassed public network switches, transmission systems, wire and cable, and wireless equipment whose total revenues in 1994 were somewhat over $10 billion. Communications products include business phone systems and services, consumer phones and phone rentals totaling about $6.5 billion. Microelectronics consisting of chips and circuit boards represented another $1.5 billion of revenues. The equipment company also included an AT&T Laboratories unit around the core (85 percent) of Bell Laboratories for research and development in communications services. The equipment company began with 20,000 of the Bell Lab employees; about 6,000 remained with the long-distance company.
+
+Splitting off the equipment business from long distance was motivated by the need to separate AT&T's role as a supplier and a competitor. AT&T's biggest equipment customers continue to be the seven regional Bell companies. But the Bell companies and the long-distance carriers are competitors, each seeking to invade the others' telephone services markets.
+
+The third company would be Global Information Solutions (GIS) (later renamed NCR). It was further announced that NCR would halt the manufacture of personal computers. It would continue to offer customers personal computers as a part of total solutions, but using outside suppliers. NCR would continue to support and service all of its current hardware and software installations and would market its capabilities to all industries, particularly the three key segments where it has a strong market position - financial, retail, and communications. NCR, with 43,000 people in more than 120 countries, announced major cost-cutting initiatives that would eliminate 8,500 jobs.
+
+AT&T had held a vision of a presence in the computer business, because central station switching equipment units are large-scale specialized computers. But for many years it was prevented from doing so by a 1956 Consent Decree with the Department of Justice. A part of the divestiture decree of 1984 gave AT&T increased freedom to compete in other businesses, including computers. But AT&T had the disadvantage of starting far behind the established computer companies. The purchase of NCR in 1991 was an effort to catch up. However, the computer industry itself went through such major dynamic changes that even the former leader, IBM, was unable to keep up. The acquisition of NCR failed to enable AT&T to achieve its aspirations in the computer business.
+
+The main reasons for the AT&T split-up can be briefly summarized. The equipment business was spun off in the effort to avoid conflicts with its main customers with which the phone service activities were in competition. Selling off the computer business it was hoped would improve the valuation multiples for the core AT&T long-distance and other phone services.
+
+Demand Shifts (Aerospace/Defense)
+
+The announcement on July 9, 1997, of Lockheed Martin's (LM) proposed acquisition of Northrop Grumman Corp. (NG) for $8.26 billion was seen as the last major deal in the aerospace/defense industry consolidation movement. Between 1992 and 1996, thirty-two U.S. defense businesses have been consolidated into nine companies, with LM and Boeing emerging as the largest.
+
+This world industry is divided into two major sectors: commercial and defense. In the world commercial market, Airbus has a 40 percent share, and, with the acquisition of McDonnell Douglas (MD) (10 percent), Boeing's share is somewhat less than 60 percent. Other smaller producers include Bombardier of Canada, whose revenues in 1996 were $8.5 billion. Bombardier is a successful niche player in the commuter and business-jet aviation markets with 65 percent of the regional-jetliner sector.
+
+In the world defense industry the top ten companies with their 1995 defense revenues in billion dollars are indicated in Table 1.
+
+Table 1
+
+1. Lockheed Martin (US)          $19
+2. Boeing (with MD) (US)         $18
+3. British Aerospace (UK)         $6
+4. Hughes Electronics (US)        $6
+5. Northrop Grumman (US)          $6
+ 6. Thompson (FR)                 $5
+ 7. General Electric Co. (UK)     $4
+ 8. Raytheon (US)                 $4
+ 9. United Technologies (US)      $4
+10. Lagardere Groupe (FR)         $3
+
+The ten largest U.S. merger transactions that have taken place since 1992 are shown in Table 2.
+
+Table 2
+
+Acquirer             Acquired               Date          Price
+                                                         (bils.)
+
+Boeing               McDonnell Douglas      12/15/96      $14.0
+Lockheed Martin      Loral                    1/9/96        9.0
+Raytheon             Hughes Electronics
+                       Defense Unit          1/16/97        9.0
+Lockheed Martin      Northrop Grumman         7/9/97        8.3
+Lockheed             Martin Marietta          8/8/94        5.0
+Boeing               Rockwell Defense Unit   12/5/96        3.2
+Martin Marietta      GE Aerospace Unit       11/23/92       3.1
+Northrop Grumman     Westinghouse
+                        Defense Unit           1/4/96       3.0
+Raytheon             Texas Instruments
+                        Defense Unit           1/6/97       3.0
+Northrop              Grumman                  4/4/94       2.2
+
+The underlying business economics factors that produced the consolidation and transformation of the aerospace/defense industry include the following:
+
+1. Between 1987 and 1997, the U.S. Department of Defense (DOD) procurement budet was cut by 50 percent.
+
+2. More cuts are expected to come in the future. The defense market is expected to continue to shrink.
+
+3. The DOD strategy is to buy fewer weapons systems and to concentrate on advanced technologies with combat superiority.
+
+4. The administration has adopted the policy of permitting mergers to achieve the size, financial strength, and organization systems required to achieve weapons systems with the most advanced technologies. The DOD has encouraged the mergers, and the Department of Justice and the Federal Trade Commission have examined them closely but have acquiesced.
+
+5. Advanced technologies require large complex organizations and vast investment outlays under high risk.
+
+6. Multiple capabilities in advanced sciences, advanced engineering, and advanced organization systems are required to compete.
+
+7. With trends toward vertical integration, contract winners may reduce the volume of business subcontracted to smaller firms. Smaller firms believe they must join larger ones or die.
+
+Advanced technologies involve huge investment outlays and major risks. As noted, size and strength are required to finance the investments and to bear the shocks when some of the competitive races are lost. For example, it was the announcement by the DOD that McDonnell Douglas had been eliminated as one of the contenders for a major new weapons system that made the company receptive to the Boeing takeover.
+
+A two-way transfer of knowledge takes place between defense and commercial businesses. Diversification in the commercial business may increase a firm's ability to compete for defense business. For example, Lockheed Martin has developed an organizational systems business with substantial market potential. Before its acquisition of Northrop Grumman, the revenues from nondefense business were already one-half of total revenues. Even if the DOD budget continues to shrink, Lockheed Martin sees the nondefense capabilities as the core of the company, producing continuing growth and profitability. Competencies in such areas as organization systems have wide applicability, contributing strength to the military side of the business as well.
+
+The foregoing represent some of the strong forces propelling the reorganization and consolidation of the aerospace/defense industry. The major risks are demonstrated by the structure of Airbus; a consortium of sovereign governments are combining their resources in the attempt to compete and to bear the risks of the turbulent aerospace industry.
+
+Technological Innovation (The Tire Industry)(1)
+
+A significant innovation in an industry's main product can lead to the need for the industry to restructure. The delayed introduction of the radial tire into the American market during the 1970s, compounded by sluggish and inadequate industry adjustments, necessitated subsequent restructuring.
+
+All of the U.S. tire makers with the exception of Goodyear were acquired by foreign firms. By market value, 90 percent of the firms in the industry experienced a takeover bid or were forced to restructure, with 71 percent of the bids being hostile, one of the highest levels experienced by any industry during the 1980s. As shown in Table 3, by the end of 1993 only 17 percent of world tire production came from U.S. owned firms, which had produced 59 percent in 1971.
+
+Table 3
+Shares of World Tire Sales
+
+Company             Country    1971   1993
+
+Goodyear              US        24     17
+Firestone             US        17    Acquired by Bridgestone
+Michelin            France      11     19
+Uniroyal              US         8    Acquired by Michelin
+Goodrich              US         6    Acquired by Michelin
+Pirelli             Italy        6      5
+Dunlop                UK         4    Acquired by Sumitomo
+General Tire          US         4    Acquired by Continental
+Bridgestone         Japan        3     18
+Continental         Germany      2      7
+Sumitomo            Japan               6
+Yokohama            Japan               5
+Toyo                Japan               3
+Total                           85     80
+
+The radial tire was first commercially produced by Michelin in 1948 and shortly dominated the European market. In 1970, 97 percent of tires manufactured in France were radials, while in the U.S. the figure was less than 2 percent, with the majority of the U.S. market served by American-produced bias-ply tires. Even though the radial tire had come to dominate the European market by the late 1960s and early 1970s, its introduction into the U.S. market was delayed. Some reasons were that the production of radial tires was more costly, significant costs were required to convert from bias-ply production to radial, the gas efficiency of the radial tire was less significant when gasoline was cheap, and U.S. auto manufacturers, the primary customers of the American tire industry, had resisted introducing cars using the radial tire because of substantial costs involved in redesigning suspension systems.
+
+The combination of the oil crises and increased car imports from Japan and Europe forced the American car makers to respond with models using the radials. In a few years, the radial tire came to dominate the American market, with the U.S. tire makers struggling to adjust to new market conditions. The longer durability of the radial tire combined with reduced driving as a result of higher gasoline prices resulted in overcapacity in the industry. The European and Japanese tire makers had already sunk their investments in the radial tire production, making them the natural leaders in supplying the radial to the U.S. and world markets.
+
+The U.S. tire makers responded to this crisis with varying results. Most firms attempted to deal with their decline in tires by attempting to diversify into other areas. However, rather than creating synergies, these largely wasteful forays attracted the attention of corporate raiders and were curbed. A natural solution to the overcapacity problem would have been consolidation between some of the firms in the industry, but the antitrust climate made this risky.
+
+Goodyear was the only U.S. tire company to maintain its independence during the restructuring and takeover wave of the 1980s. Even though it was not the first out with radials, it neither attempted to skimp on the investment necessary to convert to radial production, nor did it compromise on the quality of radials produced. Equally important, Goodyear maintained its operations in Europe, enabling it to compete with internationally oriented firms like Michelin and Pirelli. Goodyear had also started to diversify out of tires in 1983 with forays into energy (Celeron) and oil (All American Pipeline). In 1986, Goldsmith disclosed purchases of Goodyear stock with the intention of taking over and selling off nontire investments. Goodyear paid greenmail and announced a self-tender. Saddled with debt, Goodyear abandoned its diversification policy, but improved in its tire operations. However, as Table 3 shows, Goodyear's market share declined from 24 percent to 17 percent between 1971 and 1993.
+
+The tire industry became increasingly international in the 1980s in response to the globalization of car manufacturers. "Just-in-time" manufacturing requires that tires be produced close to automobile assembly. It also became valuable to have a presence both in the country in which the car is assembled and the countries where it is exported in order to take advantage of the lucrative tire replacement markets. Foreign manufacturers like Pirelli and Michelin had maintained their international orientation, while most U.S. firms retreated to their home markets and sold off foreign subsidiaries. When a global presence became crucial during the 1980s, it was easier for U.S. firms to be purchased by multinational firms than for these firms to build U.S. plants from scratch, or for U.S. firms to rebuild their international identities. Thus, all U.S. tire makers except for Goodyear were acquired by foreign producers.
+
+SOME GENERALIZATIONS
+
+What is the nature of the influences that have been creating pressures for restructuring businesses throughout the world? The major force has been the globalization of markets. Reductions in the costs of transportation and communication have internationalized the markets of many products. The main competitors in industries such as autos, steel, electronics, and telecommunications are multinational corporations domiciled in various parts of the world. The increased number of competitors with diverse capabilities and different strategies produced new forms of competitive thrusts.
+
+A second force has been technological change. The greater the inventory base of technological capabilities, the greater the pace of technological change. A major form and source of change has originated from computers. They have revolutionized information flows and thus have changed the very nature of many businesses. The computing age has stimulated the emergence of the information and knowledge age.
+
+A third major force has been innovations. These innovations have come both in the form of product improvements, such as the steel-belted radials and process improvements in manufacturing. But innovations have not been limited to products or processes. The revolution that Wal-Mart brought to retailing was in warehousing, inventory control, and other cost-reducing strategies. Financial products and financial services have taken many new forms. The list of financial innovations and their variations runs into the thousands. They have transformed not only the financial services industry but also its customers.
+
+A fourth can be called dynamic economic forces. One such force is that industries change over time. A dramatic recent example is the computer industry. Not many years ago it was vertically integrated. Revolutionary transformation took place. The computer industry became horizontal. Instead of combining hardware, software, customer service, and distribution as IBM had done, specialist firms perform individual functions. Another dynamic economic force has been shifts in competitive superiority. We have presented examples in the case studies. Different combinations of the preceding forces have interacted to produce a reorganization of industries. This is best exemplified in telecommunications in all of its forms. The pace of technological change is so great that the identity of individual companies continues to present a changing mix of capabilities, products, and strategies.
+
+Another response to the dynamic environment has been deregulation. Nonregulated industries have been transformed by competitive forces. Economic changes have increasingly introduced competitive influences into regulated industries. The mix of regulation and competition had created such tensions that deregulation became a necessity.
+
+It is these forces that have produced the acceleration of the restructuring that has taken place in industries throughout the world. Some industries have been affected more than others. In recent years, more than 50 percent of the dollar value of restructuring transactions has taken place in a relatively small number of industries.
+
+The causal factor is not the restructuring, but more basic forces of change. Restructuring is part of the adaptation process. It has often been said that restructuring has ruined industries. The tire industry is often cited as an example. Investment analysts have commented that the bonds of the four leading U.S. tire producers were of AAA grade until restructuring began to ruin the firms. But the pressures came from the innovations described in our case study, Restructuring was an attempt to deal with the forces of creative destruction. Restructuring was not the prime mover.
+
+IMPLICATIONS FOR BUSINESS ECONOMICS
+
+The revised mission statement of the National Association for Business Economics says that, "applied and industry analysis is now more important than macroeconomic analysis" [NABE News, March 1997, p. 1]. It has always been true that the work of corporate business economists has been skillfully combining macro as well as applied and industry analysis. Both sets of analytical tools have been used to help firms anticipate change and to transform themselves. This was not just a phenomenon that began in the 1980s. Developing a wider range of capabilities has become a stronger imperative for business economists as the forces of economic, financial, and cultural turbulence have grown stronger and more pervasive.
+
+The marriage of multiple disciplines is well exemplified in the presentation by Allan Meltzer reported in NABE News of September 1997. He comments, "There is no other period in U.S. history in which the economy sustained almost continuous growth for fifteen years... During these fifteen years, the economy has been transformed... The so-called miracle -- sustained growth with low inflation -- is, in my judgment, a miracle only in one sense. It is indeed miraculous that Congress and several administrations have finally deregulated transportation, telecommunications, finance, and international trade and the Federal Reserve has confined itself to pursuing low inflation... But, there is no set of principles or guidelines for policy" [NABE News, September 1997, pp. 11, 12].
+
+This statement repeats our theme that major restructuring has taken place in some industries more than others. Deregulation resulted from economic forces that were too compelling not to have them reflected in public policy. Forces of change have produced restructuring. In turn, restructuring represents a reinvigoration of the market processes by which efficiency is stimulated and resources are moved to their highest valued uses,
+
+Restructuring has been a force for strengthening the economy. In spite of the many individual company announcements of downsizing and layoffs, the economy has produced almost 2 million net new jobs per year since 1982. Employment increased from 99.5 million in 1982 to 126.7 million in 1996 -- an increase of 27.2 million in civilian employment during the fourteen years. Corporate profits over the same period have grown at a compound rate of about 11 percent per year [Economic Report of the President, February 1997].
+
+Macroeconomics and the analysis of the firm in its industries have become complementary. The environment of strong economic progress, sustained growth in business profits, a relatively low nominal interest rate environment, and strong asset value markets have facilitated corporate restructuring, which in turn has promoted economic progress. This environment has stimulated the growth of new enterprise, a strong new issue market, and corporate renewal. Restructuring and macroeconomic analysis have been mutually reinforcing.
